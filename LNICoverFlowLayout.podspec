@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "LNICoverFlowLayout"
-  s.version          = "2.0.0"
+  s.version          = "2.0.1"
   s.summary          = "Swift-only implementation of YRCoverFlowLayout. Also supports CocoaPods."
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Supports CocoaPods. You can also drag & drop the single Swift file but using Coc
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Sumit Chawla" => "sumit@loudnoiseinc.com" }
-  s.source           = { :git => "https://github.com/sumitlni/LNICoverFlowLayout.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/biovolt/LNICoverFlowLayout.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/LoudNoiseInc'
 
   s.ios.deployment_target = '9.0'
